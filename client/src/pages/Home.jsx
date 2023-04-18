@@ -71,7 +71,7 @@ const handleSearchChange = (e) =>{
           labelName='Search posts'
           type='text'
           name='text'
-          placeholder='Search post'
+          placeholder='Search something...'
           value={searchText}
           handleChange={handleSearchChange}
         />
